@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Crumbs Bakery",
+  "description": "A premium luxury cake and pastry brand website offering bespoke cakes, fine pastries, and artisan breads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
